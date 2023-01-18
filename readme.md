@@ -1,5 +1,5 @@
 # Melanoma-CNN-Prediction
-> o build a build a multiclass classification model using a custom convolutional neural network in TensorFlow.
+To build a build a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
 ## Table of Contents
